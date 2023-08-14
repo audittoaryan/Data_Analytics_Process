@@ -1,4 +1,4 @@
-# Data_Analytics_Process
+# DATA_ANALYTICS_PROCESS
 We use Data Analytics in everyday life without even knowing it.
 For eg : Going to a market to buy something .
 
